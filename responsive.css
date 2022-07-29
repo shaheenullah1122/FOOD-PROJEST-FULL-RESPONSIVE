@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    ul .nav-btn {
+        margin-left: 0;
+    }
+    .section-2 {
+        padding-top: 0;
+        row-gap: 3rem;
+    }
+
+    .section-3 button {
+        margin-bottom: 2rem;
+    }
+
+    .section-3 {
+        row-gap: 3rem;
+    }
+
+    .section-3 .box {
+        border-left: none;
+        border-right: none;
+    }
+
+    .slider .content {
+        width: 100%;
+    }
+
+    footer {
+        padding: 3rem 0rem;
+        text-align: center;
+    }
+}
